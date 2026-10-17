@@ -1,7 +1,8 @@
 
 /*
  * week4_3_struct_database.c
- * Author: Yagiz Sen
+ * Author: Omer Faruk Boyraz
+ * Student ID: 241ADB161
  * Description:
  *   Stores student records in dynamically allocated memory,
  *   reads student information, prints a table,

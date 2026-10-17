@@ -1,7 +1,8 @@
 
 /*
  * week4_2_struct_student.c
- * Author: Yagiz Sen
+ * Author: Omer Faruk Boyraz
+ * Student ID: 241ADB161
  * Description:
  *   Defines a Student struct, creates two students,
  *   assigns their information and prints their records.

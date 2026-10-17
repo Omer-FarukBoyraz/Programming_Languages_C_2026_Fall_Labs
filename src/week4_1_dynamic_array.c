@@ -1,7 +1,8 @@
 
 /*
  * week4_1_dynamic_array.c
- * Author: Yagiz Sen
+ * Author: Omer Faruk Boyraz
+ * Student ID: 241ADB161
  * Description:
  *   Creates a dynamic array, reads integers,
  *   calculates sum and average, and frees memory.
